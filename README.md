@@ -7,7 +7,9 @@ A Blogging Application
 to effectively run a blog. In this case, a blog is a collection of
 posts that someone has written that is shown in reverse
 chronological order. Posts consists of a title, a date when it was
-written, an author, and text that may contain HTML as well. 
+written, an author, and text that may contain HTML as well. The root URL
+used is http://127.0.0.1:5000/ and it is the website to see the 
+interactive web application. In this specific program,
 
 
 #############################################################
