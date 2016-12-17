@@ -14,12 +14,14 @@ and SQLite3 to create a cohesive application that has a multitude of
 controllers. 
 
 To log into the program: 
-Username      Password
-Lido          norway
-Flume         australia
-Rustie        scotland
-JaiWolf       america
-ManilaKilla   philippines
+Username    Password
+========    =========
+Lido        norway
+Flume       australia
+Rustie      scotland
+JaiWolf     america
+ManilaKilla philippines
+=========== ============
 
 
 #############################################################
