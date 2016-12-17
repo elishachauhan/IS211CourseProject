@@ -15,7 +15,7 @@ controllers.
 
 To log into the program: 
 
-**Username**  | ** Password**
+**Username**  | **Password**
 ------------------------- | -------------------------
 Lido    |    norway
 Flume  |    australia
