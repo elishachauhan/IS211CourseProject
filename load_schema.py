@@ -6,7 +6,7 @@ import sqlite3
 
 
 def main():
-    conn = sqlite3.connect('myblog.db')
+    conn = sqlite3.connect('musicblog.db')
     f = open('schema.sql','r')
     sql = f.read()
     conn.executescript(sql)
